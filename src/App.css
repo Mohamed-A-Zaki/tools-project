@@ -1,0 +1,15 @@
+.sidebar {
+  margin-top: 58px;
+  width: 250px;
+}
+.sidebar .list-group-item.active {
+  background-color: #000 !important;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+.item-img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  border-radius: 50%;
+}
