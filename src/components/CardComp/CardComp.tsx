@@ -12,7 +12,7 @@ export default function CardComp({ title, data }: CardProps) {
             return (
               <div key={id} className="text-center flex-wrap">
                 <Link to={to} target="_blank">
-                  <img className="item-img img-fluid" src={img} />
+                  <img className="item-img img-thumbnail p-0" src={img} />
                   <h5 className="mt-2 text-light">{title}</h5>
                 </Link>
               </div>
