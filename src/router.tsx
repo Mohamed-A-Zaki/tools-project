@@ -2,6 +2,7 @@ import { createHashRouter } from "react-router-dom";
 import App from "./App";
 import Youtube from "./pages/Youtube/Youtube";
 import Technologies from "./pages/Technologies/Technologies";
+import Others from "./pages/Others/Others";
 
 export const router = createHashRouter([
   {
@@ -15,6 +16,10 @@ export const router = createHashRouter([
       {
         path: "youtube",
         element: <Youtube />,
+      },
+      {
+        path: "others",
+        element: <Others />,
       },
     ],
   },

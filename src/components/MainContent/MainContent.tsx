@@ -3,8 +3,8 @@ export type MainContentProps = {
 };
 export default function MainContent({ children }: MainContentProps) {
   return (
-    <main style={{ marginTop: "56px" }} className="flex-grow-1 bg-black">
-      <div className="container pt-4">{children}</div>
+    <main className="flex-grow-1 bg-black">
+      <div className="container py-3">{children}</div>
     </main>
   );
 }
