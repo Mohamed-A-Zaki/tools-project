@@ -4,7 +4,7 @@ export default function Sidebar() {
   return (
     <nav
       id="sidebarMenu"
-      className="d-lg-block sidebar bg-dark"
+      className="d-lg-block sidebar bg-dark flex-shrink-0"
     >
       <div className="position-sticky">
         <div className="list-group list-group-flush mx-3 mt-4">
