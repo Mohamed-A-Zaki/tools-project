@@ -23,6 +23,13 @@ export default function Sidebar() {
             <span>Youtube</span>
           </NavLink>
           <NavLink
+            to="/work"
+            className="list-group-item list-group-item-action py-2 ripple text-bg-dark"
+          >
+            <i className="fas fa-lock fa-fw me-3"></i>
+            <span>Work</span>
+          </NavLink>
+          <NavLink
             to="/others"
             className="list-group-item list-group-item-action py-2 ripple text-bg-dark"
           >
