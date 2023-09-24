@@ -5,9 +5,9 @@
     "data": [
       {
         "id": 1,
-        "to": "https://www.youtube.com/@hasanzohdy",
-        "img": "https://yt3.googleusercontent.com/ytc/AOPolaRsRG0yWVeO5quAc7NToYbm8H96aWvu7v8yk2dGhg=s176-c-k-c0x00ffffff-no-rj",
-        "title": "Hasan Zohdy"
+        "to": "https://www.youtube.com/@CodingWithDawid/playlists",
+        "img": "https://yt3.googleusercontent.com/GbNZ376PtR6w-cUMn9zWCrU1HhvG5m-8R7rFeadGmwT6ueb8CnWyO4OgyJIrEZrm_c2W1EDd=s176-c-k-c0x00ffffff-no-rj",
+        "title": "Coding With Dawid"
       },
       {
         "id": 2,
@@ -20,6 +20,24 @@
         "to": "https://www.youtube.com/@javascriptmastery",
         "img": "https://yt3.googleusercontent.com/wg1TITEoPfxvBGfzuqWyt3bqm_qu35ZhMswUv3feetU3xNX_6wsAXZF40OlPIgY4TmqbqCmAZ1U=s176-c-k-c0x00ffffff-no-rj",
         "title": "JavaScript Mastery"
+      },
+      {
+        "id": 4,
+        "to": "https://www.youtube.com/@LamaDev/playlists",
+        "img": "https://yt3.googleusercontent.com/ytc/APkrFKaYh5fXbJtcsYwX_TyvfcnuXhLvn0Dt1JL484U3=s176-c-k-c0x00ffffff-no-rj",
+        "title": "Lama Dev"
+      },
+      {
+        "id": 5,
+        "to": "https://www.youtube.com/@ByteGrad/videos",
+        "img": "https://yt3.googleusercontent.com/0TGYwRSjCshcMBsT7Ir3s4dm_X8SZohmuK7lCgR2_Hwjqq8yELeLNxCpeXLH10-UwWeBnrIE=s176-c-k-c0x00ffffff-no-rj",
+        "title": "ByteGrad"
+      },
+      {
+        "id": 6,
+        "to": "https://www.youtube.com/@hasanzohdy",
+        "img": "https://yt3.googleusercontent.com/ytc/AOPolaRsRG0yWVeO5quAc7NToYbm8H96aWvu7v8yk2dGhg=s176-c-k-c0x00ffffff-no-rj",
+        "title": "Hasan Zohdy"
       }
     ]
   },
