@@ -4,6 +4,7 @@ import Youtube from "./pages/Youtube/Youtube";
 import Technologies from "./pages/Technologies/Technologies";
 import Others from "./pages/Others/Others";
 import Work from "./pages/Work/Work";
+import YoutubeWeb from "./pages/YoutubeWeb/YoutubeWeb";
 
 export const router = createHashRouter([
   {
@@ -17,6 +18,10 @@ export const router = createHashRouter([
       {
         path: "youtube",
         element: <Youtube />,
+      },
+      {
+        path: "youtube-web",
+        element: <YoutubeWeb />,
       },
       {
         path: "others",

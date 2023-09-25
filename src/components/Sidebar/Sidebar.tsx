@@ -2,10 +2,7 @@ import { NavLink } from "react-router-dom";
 
 export default function Sidebar() {
   return (
-    <nav
-      id="sidebarMenu"
-      className="d-lg-block sidebar bg-dark flex-shrink-0"
-    >
+    <nav id="sidebarMenu" className="d-lg-block sidebar bg-dark flex-shrink-0">
       <div className="position-sticky">
         <div className="list-group list-group-flush mx-3 mt-4">
           <NavLink
@@ -21,6 +18,13 @@ export default function Sidebar() {
           >
             <i className="fas fa-chart-area fa-fw me-3"></i>
             <span>Youtube</span>
+          </NavLink>
+          <NavLink
+            to="/youtube-web"
+            className="list-group-item list-group-item-action py-2 ripple  text-bg-dark"
+          >
+            <i className="fas fa-chart-area fa-fw me-3"></i>
+            <span>Web Channels</span>
           </NavLink>
           <NavLink
             to="/work"
