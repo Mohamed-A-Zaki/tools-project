@@ -53,9 +53,9 @@
       },
       {
         "id": 4,
-        "to": "https://www.youtube.com/@hasanzohdy",
-        "img": "https://yt3.googleusercontent.com/ytc/AOPolaRsRG0yWVeO5quAc7NToYbm8H96aWvu7v8yk2dGhg=s176-c-k-c0x00ffffff-no-rj",
-        "title": "Hasan Zohdy"
+        "to": "https://www.youtube.com/@JeromeMcCree/videos",
+        "img": "https://yt3.googleusercontent.com/6_LmozffcW3Y-VU3OD6L85gkdTkIhjor6AghuI6HIwa4qb_WXEpZlX9tj9UafcwF8SAP_-9-GA=s176-c-k-c0x00ffffff-no-rj",
+        "title": "Code with Jerome"
       }
     ]
   },
@@ -110,6 +110,12 @@
         "to": "https://www.youtube.com/@kimzcodes",
         "img": "https://yt3.googleusercontent.com/ll7rPWa-NLm_43dOYHqX5eTi2RMUnzUhUmO3zPteEQiHU7rr3yaQXMucFdcPFumW7m7gFQ43Ug=s176-c-k-c0x00ffffff-no-rj",
         "title": "kimz codes"
+      },
+      {
+        "id": 4,
+        "to": "https://www.youtube.com/@hasanzohdy",
+        "img": "https://yt3.googleusercontent.com/ytc/AOPolaRsRG0yWVeO5quAc7NToYbm8H96aWvu7v8yk2dGhg=s176-c-k-c0x00ffffff-no-rj",
+        "title": "Hasan Zohdy"
       }
     ]
   }
