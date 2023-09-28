@@ -17,14 +17,14 @@ export default function Sidebar() {
             className="list-group-item list-group-item-action py-2 ripple  text-bg-dark"
           >
             <i className="fas fa-chart-area fa-fw me-3"></i>
-            <span>Youtube</span>
+            <span>Youtube 1</span>
           </NavLink>
           <NavLink
             to="/youtube-web"
             className="list-group-item list-group-item-action py-2 ripple  text-bg-dark"
           >
             <i className="fas fa-chart-area fa-fw me-3"></i>
-            <span>Web Channels</span>
+            <span>Youtube 2</span>
           </NavLink>
           <NavLink
             to="/work"
