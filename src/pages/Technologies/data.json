@@ -31,6 +31,30 @@
   },
   {
     "id": 2,
+    "title": "Vue",
+    "data": [
+      {
+        "id": 1,
+        "to": "https://vuejs.org/",
+        "img": "https://router.vuejs.org/logo.svg",
+        "title": "Vue"
+      },
+      {
+        "id": 2,
+        "to": "https://router.vuejs.org/",
+        "img": "https://router.vuejs.org/logo.svg",
+        "title": "Vue Router"
+      },
+      {
+        "id": 3,
+        "to": "https://pinia.vuejs.org/",
+        "img": "https://pinia.vuejs.org/logo.svg",
+        "title": "pinia"
+      }
+    ]
+  },
+  {
+    "id": 3,
     "title": "Next",
     "data": [
       {
@@ -55,12 +79,12 @@
         "id": 4,
         "to": "https://www.mongodb.com/",
         "img": "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress",
-        "title": "NextAuth"
+        "title": "Mongo DB"
       }
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "React",
     "data": [
       {
@@ -90,7 +114,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "CSS",
     "data": [
       {
@@ -120,7 +144,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Form Validation",
     "data": [
       {
@@ -144,7 +168,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Performance",
     "data": [
       {
