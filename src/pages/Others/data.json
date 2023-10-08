@@ -80,6 +80,12 @@
         "to": "https://medium.com/",
         "img": "https://th.bing.com/th/id/OIP.QXuX3DlOApMGbuZe4lUK2wHaB1?pid=ImgDet&rs=1",
         "title": "medium"
+      },
+      {
+        "id": 3,
+        "to": "https://dev.to/",
+        "img": "https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png",
+        "title": "dev.to"
       }
     ]
   },
