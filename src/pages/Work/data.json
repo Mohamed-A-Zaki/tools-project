@@ -46,5 +46,35 @@
         "title": "elharefa"
       }
     ]
+  },
+  {
+    "id": 3,
+    "title": "Remote",
+    "data": [
+      {
+        "id": 1,
+        "to": "https://arc.dev/dashboard/d/full-time-jobs/browse",
+        "img": "",
+        "title": "arc"
+      },
+      {
+        "id": 2,
+        "to": "https://www.showwcase.com/home",
+        "img": "",
+        "title": "showwcase"
+      },
+      {
+        "id": 3,
+        "to": "https://developers.turing.com/dashboard/coding_challenge",
+        "img": "",
+        "title": "turing"
+      },
+      {
+        "id": 4,
+        "to": "https://app.remotemore.com/profile",
+        "img": "",
+        "title": "remotemore"
+      }
+    ]
   }
 ]
