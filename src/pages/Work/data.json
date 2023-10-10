@@ -58,22 +58,10 @@
         "title": "arc"
       },
       {
-        "id": 2,
-        "to": "https://www.showwcase.com/home",
-        "img": "",
-        "title": "showwcase"
-      },
-      {
         "id": 3,
         "to": "https://developers.turing.com/dashboard/coding_challenge",
         "img": "",
         "title": "turing"
-      },
-      {
-        "id": 4,
-        "to": "https://app.remotemore.com/profile",
-        "img": "",
-        "title": "remotemore"
       }
     ]
   }
