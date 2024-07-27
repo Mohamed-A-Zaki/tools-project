@@ -13,6 +13,13 @@ export default function Sidebar() {
             <span>Technologies</span>
           </NavLink>
           <NavLink
+            to="/ai"
+            className="list-group-item list-group-item-action py-2 ripple text-bg-dark"
+          >
+            <i className="fas fa-tachometer-alt fa-fw me-3"></i>
+            <span>Ai</span>
+          </NavLink>
+          <NavLink
             to="/youtube"
             className="list-group-item list-group-item-action py-2 ripple  text-bg-dark"
           >

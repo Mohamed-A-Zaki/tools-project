@@ -1,23 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "AI Tools",
-    "data": [
-      {
-        "id": 1,
-        "to": "https://codepal.ai/",
-        "img": "https://codepal.ai/static/img/codepal-logo.png?cache_control=1008",
-        "title": "codepal"
-      },
-      {
-        "id": 2,
-        "to": "https://aicodeplayground.com/",
-        "img": "https://codepal.ai/static/img/codepal-logo.png?cache_control=1008",
-        "title": "AI Code Playground"
-      }
-    ]
-  },
-  {
     "id": 2,
     "title": "Version Control",
     "data": [

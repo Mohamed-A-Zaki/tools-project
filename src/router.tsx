@@ -5,6 +5,7 @@ import Technologies from "./pages/Technologies/Technologies";
 import Others from "./pages/Others/Others";
 import Work from "./pages/Work/Work";
 import YoutubeWeb from "./pages/YoutubeWeb/YoutubeWeb";
+import Ai from "./pages/Ai/Ai";
 
 export const router = createHashRouter([
   {
@@ -14,6 +15,10 @@ export const router = createHashRouter([
       {
         path: "/",
         element: <Technologies />,
+      },
+      {
+        path: "/ai",
+        element: <Ai />,
       },
       {
         path: "youtube",

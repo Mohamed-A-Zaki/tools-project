@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "AI Tools",
+    "data": [
+      {
+        "id": 1,
+        "to": "https://chat.openai.com/",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/180px-ChatGPT-Logo.svg.png",
+        "title": "openai"
+      },
+      {
+        "id": 2,
+        "to": "https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx",
+        "img": "https://i.insider.com/64536d16dcb78700180cd0ce?width=1000&format=jpeg&auto=webp",
+        "title": "Bing"
+      },
+      {
+        "id": 3,
+        "to": "https://gemini.google.com/app",
+        "img": "",
+        "title": "gemini"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "AI Tools",
+    "data": [
+      {
+        "id": 1,
+        "to": "https://codepal.ai/",
+        "img": "https://codepal.ai/static/img/codepal-logo.png?cache_control=1008",
+        "title": "codepal"
+      },
+      {
+        "id": 2,
+        "to": "https://aicodeplayground.com/",
+        "img": "https://codepal.ai/static/img/codepal-logo.png?cache_control=1008",
+        "title": "AI Code Playground"
+      }
+    ]
+  }
+]
