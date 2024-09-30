@@ -10,7 +10,7 @@ export default function Sidebar() {
             className="list-group-item list-group-item-action py-2 ripple text-bg-dark"
           >
             <i className="fas fa-tachometer-alt fa-fw me-3"></i>
-            <span>Technologies</span>
+            <span>React</span>
           </NavLink>
           <NavLink
             to="/tools"
