@@ -1,11 +1,11 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "./App";
-import Technologies from "./pages/Technologies/Technologies";
 import Others from "./pages/Others/Others";
 import Work from "./pages/Work/Work";
 import Tools from "./pages/Tools/Ai";
 import Programming from "./pages/Programming/Programming";
 import WebDevelopment from "./pages/WebDevelopment/WebDevelopment";
+import React from "./pages/React/React";
 
 export const router = createBrowserRouter([
   {
@@ -14,7 +14,7 @@ export const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        element: <Technologies />,
+        element: <React />,
       },
       {
         path: "/tools",
