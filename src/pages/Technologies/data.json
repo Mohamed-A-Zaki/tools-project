@@ -114,7 +114,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Next",
     "data": [
       {
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "React",
     "data": [
       {
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "CSS",
     "data": [
       {
@@ -192,7 +192,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Form Validation",
     "data": [
       {
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Performance",
     "data": [
       {

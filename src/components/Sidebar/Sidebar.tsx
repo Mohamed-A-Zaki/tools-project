@@ -20,18 +20,18 @@ export default function Sidebar() {
             <span>Tools</span>
           </NavLink>
           <NavLink
-            to="/youtube"
+            to="/programming"
             className="list-group-item list-group-item-action py-2 ripple  text-bg-dark"
           >
             <i className="fas fa-chart-area fa-fw me-3"></i>
-            <span>Youtube 1</span>
+            <span>programming</span>
           </NavLink>
           <NavLink
-            to="/youtube-web"
+            to="/web-development"
             className="list-group-item list-group-item-action py-2 ripple  text-bg-dark"
           >
             <i className="fas fa-chart-area fa-fw me-3"></i>
-            <span>Youtube 2</span>
+            <span>web-development</span>
           </NavLink>
           <NavLink
             to="/work"
