@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "AI Tools",
+    "data": [
+      {
+        "id": 1,
+        "to": "https://claude.ai/onboarding",
+        "img": "",
+        "title": "claude"
+      },
+      {
+        "id": 1,
+        "to": "https://chat.openai.com/",
+        "img": "",
+        "title": "openai"
+      },
+      {
+        "id": 2,
+        "to": "https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx",
+        "img": "",
+        "title": "Bing"
+      },
+      {
+        "id": 3,
+        "to": "https://gemini.google.com/app",
+        "img": "",
+        "title": "gemini"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "AI Tools",
+    "data": [
+      {
+        "id": 1,
+        "to": "https://v0.dev/chat",
+        "img": "",
+        "title": "v0.dev"
+      },
+      {
+        "id": 1,
+        "to": "https://www.renditioncreate.com/",
+        "img": "",
+        "title": "renditioncreate"
+      },
+      {
+        "id": 1,
+        "to": "https://codepal.ai/",
+        "img": "",
+        "title": "codepal"
+      },
+      {
+        "id": 2,
+        "to": "https://aicodeplayground.com/",
+        "img": "",
+        "title": "AI Code Playground"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Image generator",
+    "data": [
+      {
+        "id": 1,
+        "to": "https://ideogram.ai/t/explore",
+        "img": "",
+        "title": "ideogram"
+      },
+      {
+        "id": 1,
+        "to": "https://www.bing.com/images/create?",
+        "img": "",
+        "title": "bing"
+      }
+    ]
+  }
+]

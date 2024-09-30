@@ -1,13 +1,13 @@
-import { createHashRouter } from "react-router-dom";
+import { createBrowserRouter } from "react-router-dom";
 import App from "./App";
 import Youtube from "./pages/Youtube/Youtube";
 import Technologies from "./pages/Technologies/Technologies";
 import Others from "./pages/Others/Others";
 import Work from "./pages/Work/Work";
 import YoutubeWeb from "./pages/YoutubeWeb/YoutubeWeb";
-import Ai from "./pages/Ai/Ai";
+import Tools from "./pages/Tools/Ai";
 
-export const router = createHashRouter([
+export const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
@@ -17,8 +17,8 @@ export const router = createHashRouter([
         element: <Technologies />,
       },
       {
-        path: "/ai",
-        element: <Ai />,
+        path: "/tools",
+        element: <Tools />,
       },
       {
         path: "youtube",
