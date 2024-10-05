@@ -124,10 +124,16 @@
         "title": "Next"
       },
       {
-        "id": 4,
+        "id": 2,
         "to": "https://mantine.dev/",
         "img": "https://avatars.githubusercontent.com/u/79146003?s=48&v=4",
         "title": "mantine"
+      },
+      {
+        "id": 3,
+        "to": "https://ui.aceternity.com/",
+        "img": "https://ui.aceternity.com/_next/image?url=%2Flogo-dark.png&w=64&q=75",
+        "title": "aceternity"
       }
     ]
   },

@@ -61,6 +61,24 @@
   },
   {
     "id": 3,
+    "title": "AI Tools",
+    "data": [
+      {
+        "id": 1,
+        "to": "https://stackblitz.com/",
+        "img": "",
+        "title": "stackblitz"
+      },
+      {
+        "id": 2,
+        "to": "https://bolt.new/",
+        "img": "",
+        "title": "bolt.new"
+      }
+    ]
+  },
+  {
+    "id": 4,
     "title": "Image generator",
     "data": [
       {
