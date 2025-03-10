@@ -115,6 +115,30 @@
   },
   {
     "id": 5,
+    "title": "tailwind",
+    "data": [
+      {
+        "id": 1,
+        "to": "https://ui.aceternity.com/",
+        "img": "https://ui.aceternity.com/_next/image?url=%2Flogo-dark.png&w=64&q=75",
+        "title": "aceternity"
+      },
+      {
+        "id": 2,
+        "to": "https://kokonutui.com/",
+        "img": "https://kokonutui.com/logo.svg",
+        "title": "kokonutui"
+      },
+      {
+        "id": 3,
+        "to": "https://spectrumui.arihantcodes.in/",
+        "img": "https://avatars.githubusercontent.com/u/138019782?s=48&v=4",
+        "title": "spectrum-ui"
+      }
+    ]
+  },
+  {
+    "id": 6,
     "title": "Next",
     "data": [
       {
@@ -128,17 +152,11 @@
         "to": "https://mantine.dev/",
         "img": "https://avatars.githubusercontent.com/u/79146003?s=48&v=4",
         "title": "mantine"
-      },
-      {
-        "id": 3,
-        "to": "https://ui.aceternity.com/",
-        "img": "https://ui.aceternity.com/_next/image?url=%2Flogo-dark.png&w=64&q=75",
-        "title": "aceternity"
       }
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "React",
     "data": [
       {
@@ -168,7 +186,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "CSS",
     "data": [
       {
@@ -192,7 +210,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Form Validation",
     "data": [
       {
@@ -216,7 +234,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Performance",
     "data": [
       {
@@ -234,7 +252,7 @@
       {
         "id": 3,
         "to": "https://web-check.xyz/",
-        "img": "https://web-check.xyz/web-check.png",
+        "img": "https://web-check.xyz/favicon.svg",
         "title": "check.xyz"
       }
     ]
