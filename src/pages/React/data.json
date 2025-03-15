@@ -43,7 +43,7 @@
   },
   {
     "id": 3,
-    "title": "tailwind",
+    "title": "tailwind / shadcn",
     "data": [
       {
         "id": 1,
@@ -58,22 +58,22 @@
         "title": "shadcn"
       },
       {
-        "id": 3,
-        "to": "https://nyxbui.design/",
-        "img": "https://avatars.githubusercontent.com/u/173634696?s=200&v=4",
-        "title": "nyxbui"
+        "id": 1,
+        "to": "https://magicui.design/",
+        "img": "https://avatars.githubusercontent.com/u/166878038?s=48&v=4",
+        "title": "magicui"
       },
       {
-        "id": 4,
-        "to": "https://animata.design/",
-        "img": "https://avatars.githubusercontent.com/u/26914411?s=48&v=4",
-        "title": "animata"
+        "id": 2,
+        "to": "https://21st.dev/?tab=components&sort=recommended",
+        "img": "https://avatars.githubusercontent.com/u/55061526?s=48&v=4",
+        "title": "21st.dev"
       }
     ]
   },
   {
     "id": 4,
-    "title": "tailwind",
+    "title": "tailwind / shadcn",
     "data": [
       {
         "id": 1,
@@ -92,6 +92,30 @@
         "to": "https://spectrumui.arihantcodes.in/",
         "img": "https://avatars.githubusercontent.com/u/138019782?s=48&v=4",
         "title": "spectrum-ui"
+      },
+      {
+        "id": 3,
+        "to": "https://nyxbui.design/",
+        "img": "https://avatars.githubusercontent.com/u/173634696?s=200&v=4",
+        "title": "nyxbui"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "tailwind / shadcn",
+    "data": [
+      {
+        "id": 2,
+        "to": "https://nsui.irung.me/",
+        "img": "https://avatars.githubusercontent.com/u/47919550?s=48&v=4",
+        "title": "nsui.irung"
+      },
+      {
+        "id": 4,
+        "to": "https://animata.design/",
+        "img": "https://avatars.githubusercontent.com/u/26914411?s=48&v=4",
+        "title": "animata"
       }
     ]
   },
@@ -104,12 +128,6 @@
         "to": "https://axios-http.com/docs/intro",
         "img": "data:image/png;base64,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",
         "title": "Axios"
-      },
-      {
-        "id": 2,
-        "to": "https://alova.js.org/",
-        "img": "https://alova.js.org/img/logo-text-dark.svg",
-        "title": "alova"
       },
       {
         "id": 3,
