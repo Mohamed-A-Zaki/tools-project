@@ -58,6 +58,12 @@
         "title": "shadcn"
       },
       {
+        "id": 2,
+        "to": "https://shadcn-extension.vercel.app/",
+        "img": "https://avatars.githubusercontent.com/u/106016365?s=48&v=4",
+        "title": "shadcn-extension"
+      },
+      {
         "id": 1,
         "to": "https://magicui.design/",
         "img": "https://avatars.githubusercontent.com/u/166878038?s=48&v=4",
